@@ -1,0 +1,26 @@
+{
+  "Minitest": {
+    "coverage": {
+      "/Users/Calvin/launch_school/ruby_foundations_exercises/medium_testing/text.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          1,
+          2,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null
+        ]
+      }
+    },
+    "timestamp": 1595777200
+  }
+}
